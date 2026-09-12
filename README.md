@@ -104,3 +104,7 @@ You can reach the Argo Rollouts community and developers via the following chann
 * [Progressive delivery for Kubernetes Config Maps using Argo Rollouts](https://codefresh.io/blog/progressive-delivery-for-kubernetes-config-maps-using-argo-rollouts/)
 * [Multi-Service Progressive Delivery with Argo Rollouts](https://codefresh.io/blog/multi-service-progressive-delivery-with-argo-rollouts/)
 * [Progressive Delivery for Stateful Services Using Argo Rollouts](https://codefresh.io/blog/progressive-delivery-for-stateful-services-using-argo-rollouts/)
+
+## Operations checklist
+
+See [the operations guide](OPERATIONS.md) for focused validation and troubleshooting checks.
