@@ -43,7 +43,7 @@ have been undone.
 Use synthetic traffic for lab tests and keep production rollout controls
 separate from diagnostic access.
 
-## Development note
+## Attribution
 
-This troubleshooting guide was added with AI assistance. Upstream code,
+Upstream code,
 licenses and contributor attribution remain unchanged.
